@@ -1,0 +1,5 @@
+package oftp
+
+func MinioUpload() {
+
+}
